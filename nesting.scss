@@ -1,0 +1,12 @@
+div {
+    font-size: 18px;
+    // For any paragraph inside the div
+    p {
+        color: blue;
+    }
+
+    // For any ul inside div
+    ul {
+        color: green;
+    }
+}

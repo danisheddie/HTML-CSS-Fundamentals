@@ -1,0 +1,7 @@
+// In scss variable starts with $ sign
+$color: red;
+
+ul {
+    font-size: 14px;
+    color: $color;
+}
